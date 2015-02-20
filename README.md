@@ -1,2 +1,2 @@
 # Kaggle
-Kaggle Competition Models
+Project containing models of Kaggle data science competitions
